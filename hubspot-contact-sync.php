@@ -20,7 +20,7 @@
  * Author:            Mark Gidman
  * Author URI:        https://github.com/cravelight
  * License:           GPL-2.0+
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ * License URI:       https://www.gnu.org/licenses/gpl-3.0.txt
  * Text Domain:       hubspot-contact-sync
  * Domain Path:       /languages
  */
